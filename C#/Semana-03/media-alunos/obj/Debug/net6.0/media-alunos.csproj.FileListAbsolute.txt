@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-03\media-alunos\obj\Debug\net6.0\media-alunos.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-03\media-alunos\obj\Debug\net6.0\media-alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-03\media-alunos\obj\Debug\net6.0\media-alunos.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-03\media-alunos\obj\Debug\net6.0\media-alunos.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-03\media-alunos\obj\Debug\net6.0\media-alunos.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-03\media-alunos\bin\Debug\net6.0\media-alunos.exe
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-03\media-alunos\bin\Debug\net6.0\media-alunos.deps.json
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-03\media-alunos\bin\Debug\net6.0\media-alunos.runtimeconfig.json
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-03\media-alunos\bin\Debug\net6.0\media-alunos.dll
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-03\media-alunos\bin\Debug\net6.0\media-alunos.pdb
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-03\media-alunos\obj\Debug\net6.0\media-alunos.dll
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-03\media-alunos\obj\Debug\net6.0\refint\media-alunos.dll
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-03\media-alunos\obj\Debug\net6.0\media-alunos.pdb
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-03\media-alunos\obj\Debug\net6.0\media-alunos.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-03\media-alunos\obj\Debug\net6.0\ref\media-alunos.dll
