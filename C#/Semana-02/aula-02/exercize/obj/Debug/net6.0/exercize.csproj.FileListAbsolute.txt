@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-01\aula-02\exercize\bin\Debug\net6.0\exercize.exe
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-01\aula-02\exercize\bin\Debug\net6.0\exercize.deps.json
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-01\aula-02\exercize\bin\Debug\net6.0\exercize.runtimeconfig.json
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-01\aula-02\exercize\bin\Debug\net6.0\exercize.dll
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-01\aula-02\exercize\bin\Debug\net6.0\exercize.pdb
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-01\aula-02\exercize\obj\Debug\net6.0\exercize.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-01\aula-02\exercize\obj\Debug\net6.0\exercize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-01\aula-02\exercize\obj\Debug\net6.0\exercize.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-01\aula-02\exercize\obj\Debug\net6.0\exercize.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-01\aula-02\exercize\obj\Debug\net6.0\exercize.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-01\aula-02\exercize\obj\Debug\net6.0\exercize.dll
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-01\aula-02\exercize\obj\Debug\net6.0\refint\exercize.dll
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-01\aula-02\exercize\obj\Debug\net6.0\exercize.pdb
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-01\aula-02\exercize\obj\Debug\net6.0\exercize.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\Senai\C#\Semana-01\aula-02\exercize\obj\Debug\net6.0\ref\exercize.dll

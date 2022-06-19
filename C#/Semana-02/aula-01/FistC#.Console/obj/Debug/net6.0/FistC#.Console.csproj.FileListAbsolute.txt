@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Desktop\Senai\C#\FistC#.Console\bin\Debug\net6.0\FistC#.Console.exe
+C:\Users\Eduardo\Desktop\Senai\C#\FistC#.Console\bin\Debug\net6.0\FistC#.Console.deps.json
+C:\Users\Eduardo\Desktop\Senai\C#\FistC#.Console\bin\Debug\net6.0\FistC#.Console.runtimeconfig.json
+C:\Users\Eduardo\Desktop\Senai\C#\FistC#.Console\bin\Debug\net6.0\FistC#.Console.dll
+C:\Users\Eduardo\Desktop\Senai\C#\FistC#.Console\bin\Debug\net6.0\FistC#.Console.pdb
+C:\Users\Eduardo\Desktop\Senai\C#\FistC#.Console\obj\Debug\net6.0\FistC#.Console.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\Senai\C#\FistC#.Console\obj\Debug\net6.0\FistC#.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\Senai\C#\FistC#.Console\obj\Debug\net6.0\FistC#.Console.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\Senai\C#\FistC#.Console\obj\Debug\net6.0\FistC#.Console.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\Senai\C#\FistC#.Console\obj\Debug\net6.0\FistC#.Console.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Senai\C#\FistC#.Console\obj\Debug\net6.0\FistC#.Console.dll
+C:\Users\Eduardo\Desktop\Senai\C#\FistC#.Console\obj\Debug\net6.0\refint\FistC#.Console.dll
+C:\Users\Eduardo\Desktop\Senai\C#\FistC#.Console\obj\Debug\net6.0\FistC#.Console.pdb
+C:\Users\Eduardo\Desktop\Senai\C#\FistC#.Console\obj\Debug\net6.0\FistC#.Console.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\Senai\C#\FistC#.Console\obj\Debug\net6.0\ref\FistC#.Console.dll
